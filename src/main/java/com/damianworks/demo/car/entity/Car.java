@@ -1,4 +1,4 @@
-package com.damianworks.demo.car;
+package com.damianworks.demo.car.entity;
 
 import jakarta.persistence.*;
 
